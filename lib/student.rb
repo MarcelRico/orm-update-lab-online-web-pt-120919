@@ -57,7 +57,7 @@ class Student
       self.new_from_db(row)
     end
     
-    pp s
+    s
   end
   
   def update
